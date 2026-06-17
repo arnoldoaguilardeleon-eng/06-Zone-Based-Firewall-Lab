@@ -63,8 +63,8 @@ El objetivo del laboratorio es implementar una arquitectura donde un servidor we
                 |
     -------------------------
     |           |           |
- VLAN 10     VLAN 20     VLAN 30
- Inside       DMZ       Servers
+    VLAN 10     VLAN 20     VLAN 30
+    Inside       DMZ       Servers
 
  
 ---
@@ -85,7 +85,11 @@ El objetivo del laboratorio es implementar una arquitectura donde un servidor we
 # Servicios publicados
 
 Servidor Web:
+IP Privada:
+192.168.20.10
 
+IP Pública:
+200.1.1.10
 ---
 
 # Reglas de seguridad implementadas
