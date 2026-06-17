@@ -20,7 +20,7 @@ El objetivo del laboratorio es implementar una arquitectura donde un servidor we
 
 # Topología
 
-![Topologia](topologia.png)
+![Topologia](Topologia.png)
 
 ---
 
