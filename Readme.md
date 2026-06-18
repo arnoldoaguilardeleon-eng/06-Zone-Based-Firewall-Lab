@@ -11,7 +11,7 @@ Empresa NovaTech Corporation con tres zonas principales:
 - **VLAN 30 - Servers** → Red interna destinada a servidores corporativos
 
 ## Topología
-![Topologia](topologia.png)
+![Topologia](Topologia.png)
 
 ## Direccionamiento
 | Zona | Red | Gateway | VLAN |
