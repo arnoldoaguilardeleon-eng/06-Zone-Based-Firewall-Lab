@@ -1,7 +1,7 @@
 # 06 - Enterprise DMZ & Firewall Lab
 
 Simulación de arquitectura empresarial con seguridad perimetral, segmentación de red, DMZ pública y publicación segura de servicios mediante NAT.
-Implementada en Cisco Packet Tracer.
+Implementada en Cisco Packet Tracer. 
 
 ## Escenario
 Empresa NovaTech Corporation con tres zonas principales:
